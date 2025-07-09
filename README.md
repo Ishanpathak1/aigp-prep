@@ -250,7 +250,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🤝 Support
 
 For support, questions, or feature requests:
-- 📧 Email: [your-email@domain.com]
+- 📧 Email: [ishan.pathak2711@gmail.com]
 - 💬 Issues: GitHub Issues tab
 - 📚 Documentation: [Wiki](wiki-link)
 
