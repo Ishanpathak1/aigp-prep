@@ -1,0 +1,23 @@
+{
+  "AIGP_BOK_version_1.pdf": {
+    "processed": true,
+    "enabled": true
+  },
+  "Mapping emerging critical risks (working paper) 12162024.pdf": {
+    "processed": true,
+    "enabled": true
+  },
+  "OECD The OECD Framework for the Classification of AI systems.pdf": {
+    "processed": false,
+    "enabled": false,
+    "error": "Failed to process PDF: No valid chunks generated from PDF"
+  },
+  "PEND OCDE 2023 Common guideposts to promote interoperability in AI risk management.pdf": {
+    "processed": true,
+    "enabled": true
+  },
+  "AIGP_BOK_version 1.pdf": {
+    "processed": true,
+    "enabled": true
+  }
+}
